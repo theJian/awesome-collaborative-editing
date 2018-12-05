@@ -1,1 +1,1 @@
-# awesome-collaborative-editing
+# Collaborative Editing
