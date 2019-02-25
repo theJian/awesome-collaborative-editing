@@ -1,4 +1,4 @@
-# Collaborative Editing
+# Awesome Collaborative Editing
 
 ### Articles
 
