@@ -16,3 +16,4 @@
 - [How we built Synchrony, the engine behind collaborative editing in Confluence - Haymo Meran](https://youtu.be/EgCYd6ei7QI)
 - [Issues and Experiences in Designing Real-time Collaborative Editing Systems](https://youtu.be/84zqbXUQIHc)
 - [Tutorial: How to build an Collaborative Editing Application with IPFS using CRDT](https://youtu.be/-kdx8rJd8rQ)
+- [Real-time Collaborative Editing with CRDTs](https://www.infoq.com/presentations/crdt-tachyon-collaborative-editing)
