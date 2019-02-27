@@ -3,6 +3,7 @@
 ### Articles
 
 - [OT FAQ](http://www3.ntu.edu.sg/home/czsun/projects/otfaq/)
+- [Google Wave Operational Transformation](https://svn.apache.org/repos/asf/incubator/wave/whitepapers/operational-transform/operational-transform.html)
 
 ### Projects
 
