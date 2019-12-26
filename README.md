@@ -9,6 +9,7 @@
 ### Projects
 
 - [automerge](https://github.com/automerge/automerge)
+- [yjs](https://github.com/yjs/yjs)
 
 ### Talks
 
