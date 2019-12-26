@@ -6,6 +6,10 @@
 - [Google Wave Operational Transformation](https://svn.apache.org/repos/asf/incubator/wave/whitepapers/operational-transform/operational-transform.html)
 - [CRDT - An approach to async plugins and undo](https://xi-editor.io/xi-editor/docs/crdt.html)
 
+### Papers
+
+- [Conflict-free Replicated Data Types](https://hal.inria.fr/hal-00932836/file/CRDTs_SSS-2011.pdf)
+
 ### Projects
 
 - [automerge](https://github.com/automerge/automerge)
@@ -20,3 +24,4 @@
 - [Issues and Experiences in Designing Real-time Collaborative Editing Systems](https://youtu.be/84zqbXUQIHc)
 - [Tutorial: How to build an Collaborative Editing Application with IPFS using CRDT](https://youtu.be/-kdx8rJd8rQ)
 - [Real-time Collaborative Editing with CRDTs](https://www.infoq.com/presentations/crdt-tachyon-collaborative-editing)
+- [Strong Eventual Consistency and Conflict-free Replicated Data Types](https://youtu.be/oyUHd894w18)
