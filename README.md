@@ -5,6 +5,7 @@
 - [OT FAQ](http://www3.ntu.edu.sg/home/czsun/projects/otfaq/)
 - [Google Wave Operational Transformation](https://svn.apache.org/repos/asf/incubator/wave/whitepapers/operational-transform/operational-transform.html)
 - [CRDT - An approach to async plugins and undo](https://xi-editor.io/xi-editor/docs/crdt.html)
+- [Understanding and Applying Operational Transformation](http://www.codecommit.com/blog/java/understanding-and-applying-operational-transformation)
 
 ### Papers
 
